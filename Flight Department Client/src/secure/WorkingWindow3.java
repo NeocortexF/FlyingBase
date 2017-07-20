@@ -26,7 +26,7 @@ public class WorkingWindow3 extends javax.swing.JFrame {
     public static final String SAFETY_MANAGER = "Сидоров";
     public static final String FD_SUBCHIEF_ASSESSMENT = "Петров П.П.";
     public static final String FD_CHEIF_ASSESSMENT = "Иванов И.И.";
-    public static final java.lang.String SAFETY_MANAGER_ASSESSMENT = "Сидоров С.С.";
+    public static final String SAFETY_MANAGER_ASSESSMENT = "Сидоров С.С.";
     private String globalIncNbr;
     private String corActFIO;
     private String talonCloseFIO;
